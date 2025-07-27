@@ -11,7 +11,19 @@
     <img src="https://img.shields.io/badge/-Tailwind_CSS-black?style=for-the-badge&logoColor=white&logo=tailwindcss&color=06B6D4" alt="tailwindcss" />
   </div>
 
-  <h3 align="center">An Awwwards Winning Website</h3>
+ <h3 align="center">An Awwwards Winning Website</h3>
+
+---
+
+# Zentry Clone
+
+This is a modern React-based clone of the Zentry website. It includes a responsive layout, interactive UI, and styled using Tailwind CSS. The project is built using **Vite** for faster development and bundling.
+
+## 🔗 Demo
+
+Check out the deployed project here: [https://zentry-clone.vercel.app](https://zentry-clone.vercel.app)
+
+---
 
 
 </div>
@@ -70,7 +82,7 @@ Make sure you have the following installed on your machine:
 **Cloning the Repository**
 
 ```bash
-git clone [https://github.com/adrianhajdin/award-winning-website.git](https://github.com/Prasad777777/zentry_clone)
+git clone (https://github.com/Prasad777777/zentry_clone)
 cd award-winning-website
 ```
 
